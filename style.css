@@ -9,6 +9,9 @@
     }
     h1 {
       font-size: 70px;
+      color:yellow;
+      font-style:italic;
+      font-size:30px;
     }
     img {
       margin: 40px 0px 0px 0px;
