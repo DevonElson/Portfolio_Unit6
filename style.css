@@ -38,3 +38,10 @@
         display: block;
       }
     }
+.project-title {
+  text-align:center;
+  color:red;
+}
+#title {
+  color:red;
+}
